@@ -1,4 +1,4 @@
 # ApplicationsApps
 Repository with apps, programs, librares.
 
-LICENSE in file LICENSE.txt
+LICENSE in file LICENSE
