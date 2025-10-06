@@ -15,7 +15,7 @@ Repository with App with functions:
  - Program if test is running locking exit option. You can exit with task manager.
 
 # HOW TO RUN?
- *Unextract downloaded zip file (e.g. C:\InternetSpeedTestApp\) enter the folders: C:\InternetSpeedTestApp\WinFormsApp13\WinFormsApp13\bin\Debug\net8.0-windows\ and run file WinFormsApp13.exe*
+ *Unextract downloaded zip file (e.g. C:\InternetSpeedTestApp\) enter the folders: C:\InternetSpeedTestApp\WinFormsApp13\WinFormsApp13\bin\Debug\net8.0-windows\ and run the executable file WinFormsApp13.exe*
 
 # PROGRAM NOT STARTING?
  *Errors:*
@@ -24,6 +24,8 @@ Repository with App with functions:
 
  *Solutions:*
   - Try download again zip file
+
+
 
 
 LICENSE in file LICENSE.txt
