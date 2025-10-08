@@ -19,11 +19,12 @@ Repository with App with functions:
 
 # PROGRAM NOT STARTING?
  **Errors:**
-  - Make sure this files existing: **WinFormsApp13.deps.json**, **WinFormsApp13.dll**, **WinFormsApp13.pdb**, **WinFormsApp13.runtimeconfig.json** and main executable file *(WinFormsApp13.exe)*
   - Executable file *(WinFormsApp13.exe)* may be damaged
+  - Additional requried files *(**WinFormsApp13.deps.json**, **WinFormsApp13.dll**, **WinFormsApp13.pdb**, **WinFormsApp13.runtimeconfig.json**)* may be damaged or not existing
 
  **Solutions:**
   - Try download zip file again
+  - Make sure this files existing: **WinFormsApp13.deps.json**, **WinFormsApp13.dll**, **WinFormsApp13.pdb**, **WinFormsApp13.runtimeconfig.json** and main executable file *(WinFormsApp13.exe)*
 
 
 
