@@ -10,7 +10,7 @@ Repository with App with functions:
  - .NET Desktop Runtime / Visual Studio 2022
  - Windows 7+
 
-# ADDITIONAL INFO:
+# ADDITIONAL INFORMATION:
  - If program not finishing test open task manager then select WinFormsApp13 and End Task
  - Program if test is running locking exit option. You can exit with task manager.
 
