@@ -24,7 +24,7 @@ Repository with App with functions:
 
  **Solutions:**
   - Try download zip file again
-  - Make sure this files existing: **WinFormsApp13.deps.json**, **WinFormsApp13.dll**, **WinFormsApp13.pdb**, **WinFormsApp13.runtimeconfig.json** and main executable file *(WinFormsApp13.exe)*
+  - Make sure this files existing: ***WinFormsApp13.deps.json**, **WinFormsApp13.dll**, **WinFormsApp13.pdb**, **WinFormsApp13.runtimeconfig.json*** and main executable file *(WinFormsApp13.exe)*
 
 
 
