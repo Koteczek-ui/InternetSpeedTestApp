@@ -29,4 +29,4 @@ Repository with App with functions:
 
 
 
-LICENSE in file LICENSE.txt
+LICENSE in file LICENSE.txt (Polish version)
